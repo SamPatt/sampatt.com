@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sampatt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sampatt.com
+  * I am sampatt (https://keybase.io/sampatt) on keybase.
+  * I have a public key ASCE0GpOpD3GCMN9HlDge4LMlAJrlcW6R4Xely5dELjAyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013ccf4a5a529bd8c7cd179f67bb7d98f9109e47e4d60f8f7b1208d618ba25bdaf0a",
+      "host": "keybase.io",
+      "kid": "012084d06a4ea43dc608c37d1e50e07b82cc94026b95c5ba4785de972e5d10b8c0c80a",
+      "uid": "ba2ce875dff07c1c9288b55296a44800",
+      "username": "sampatt"
+    },
+    "merkle_root": {
+      "ctime": 1552493058,
+      "hash": "8977ea895915ee58f769200de95ade974ad156b3331b921653cad274206954af001db00637af665a48a6fd4e34e7c0f90adbcd8c15d7aa4a8e4eac9b576f59a0",
+      "hash_meta": "9629f9cff30737379cc1940774d368829cde3c63b7faa9059c00e5cd82030ed6",
+      "seqno": 4940573
+    },
+    "service": {
+      "entropy": "bMt/683Q5VICNgygxVrIqTg1",
+      "hostname": "sampatt.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.0"
+  },
+  "ctime": 1552493068,
+  "expire_in": 504576000,
+  "prev": "a13d2e8cb80cbb52a06d6ceae1d17bb9d0073c006f621d15044b5fdbec87d95e",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghNBqTqQ9xgjDfR5Q4HuCzJQCa5XFukeF3pcuXRC4wMgKp3BheWxvYWTESpcCOsQgoT0ujLgMu1KgbWzq4dF7udAHPABvYh0VBEtf2+yH2V7EIBUJiS8AecEXvIqK5u3S+C/LkRiEZRn4S60OXr11MpU+AgHCo3NpZ8RAJnYfMjd8LQV9Rkm723zlbMUFOd0R0pRGz+0Y0TWr/vZJ/hE3XRrB+UFy+xVbHE8xED6jekNACd98PyBqK/fqDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMJF3hHnMpEi4u+PD9jAyZkpwew1gVU7NuV6soY7zgRDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sampatt
+
+==================================================================
