@@ -1,2 +1,2 @@
-# sampatt.github.io
-sampatt.com website
+# sampatt.com
+My personal website
