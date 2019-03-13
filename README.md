@@ -1,2 +1,2 @@
 # sampatt.com
-My personal website
+Hosting for my personal website
