@@ -3,7 +3,7 @@ layout: post
 title: New blog, sort of, again
 ---
 
-I've switched my blog over from an old Wordpress install to this new sampatt.com domain which is is a static build.
+I've switched my blog over from an old Wordpress install to this new sampatt.com domain which is a static build.
 
 If you read through the old posts you'll note that they probably have some formatting errors and are missing pictures. I might go through and fix them eventually.
 
