@@ -154,4 +154,4 @@ I hope this letter has shown that you and your staff should take a step back and
 
 Sincerely,
 
-Sam Patterson
+Sam

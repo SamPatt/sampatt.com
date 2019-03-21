@@ -24,8 +24,6 @@ There are innumerable actions you've taken - and will take - which aren't useful
 Except for one area. In this one area, even though our actions have no impact on anyone else, we all feel empowered to shout our actions from the rooftops to anyone who will listen.
 
 
-[![vote](http://samuelrpatterson.com/wp-content/uploads/2016/11/download.png)](http://samuelrpatterson.com/wp-content/uploads/2016/11/download.png)
-
 Your vote 
 [doesn't matter](http://reason.com/archives/2012/10/03/your-vote-doesnt-count). It doesn't matter, and you need to stop pretending like it does.
 

@@ -29,16 +29,12 @@ It worked! I sent along my public address to Archer, and we started the first ga
 Here's what the interface looked like.
 
 
-[![Blockchain Go](http://samuelrpatterson.com/wp-content/uploads/2014/03/Blockchain-Go.png)](http://samuelrpatterson.com/wp-content/uploads/2014/03/Blockchain-Go.png)
-
 I played black. My opponent was new to Go, and as we played we chatted and I gave pointers (on a separate interface, it doesn't support chat).
 
 The gameplay was very crude. You clicked to place your stone, which sent the move into the blockchain. Since the game continually monitors the blockchain, the gameplay can take place fairly quickly, but the interface didn't automatically display my opponents moves. I had to click refresh each time, which got annoying. There was also no counter to display captured stones, nor to indicate whose turn it was.
 
 By using the chat, Archer and I were able to make it through an entire game. Here's the result of our game.
 
-
-[![CryptGo4](http://samuelrpatterson.com/wp-content/uploads/2014/03/CryptGo4.png)](http://samuelrpatterson.com/wp-content/uploads/2014/03/CryptGo4.png)
 
 If you're familiar with Go, you know that selecting dead groups and counting territory is in integral part of the endgame. Archer and I couldn't figure out how to end the game and determine the count. We could have done it manually, but didn't bother since it wasn't a close game. We had to wait for the 5 minute timer to expire, and me to hit "Win game," which appeared to be intended for people who abandoned gameplay.
 

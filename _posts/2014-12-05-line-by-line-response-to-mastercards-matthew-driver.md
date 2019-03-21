@@ -201,4 +201,4 @@ We understand. You like control. Enjoy it while it lasts.
 
 Cheers,
 
-Sam Patterson
+Sam

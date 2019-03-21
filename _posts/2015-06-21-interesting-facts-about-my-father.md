@@ -3,10 +3,7 @@ layout: post
 title: Interesting Facts About my Father
 ---
 
-[![DadHead](http://samuelrpatterson.com/wp-content/uploads/2015/06/DadHead.jpg)](http://samuelrpatterson.com/wp-content/uploads/2015/06/DadHead.jpg)
-
-My father, George Wesley Patterson, 
-[died](http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?pid=174966782) on May 23th. He was 55; it was a heart attack and a complete shock.
+My father, George, died on May 23th. He was 55; it was a heart attack and a complete shock.
 
 This post contains no pearls of wisdom after reflecting on his life, nor deep introspection on my part. It's not about life lessons or how you can be a better person. It's just about my dad.
 
@@ -40,7 +37,7 @@ It was an honorable discharge, because he was one of the top students in his nuc
 **Interesting fact #4**
 : My father was uneducated and self-conscious about his lack of education.
 
-This might be surprising to people that worked with my father, not because he was an academic - he wasn’t - but he did became a very important and influential person in his industry, and nearly all his colleagues at least had college degrees. In fact, he even taught classrooms full of college professors the Pacific Institute material - something that he frequently found humor in. "The dumb ole' country boy" (as his mother-in-law called him endearingly) was teaching professors and managers who operated nuclear power plants. Behind his self-effacing humor though, he wasn't comfortable with not having a degree. He often said that if he had a degree, he'd be running a nuclear plant, but he literally couldn't even apply to those positions, since they would then find out he didn't have an education. My brother Steven and I, who were some of the first Patterson men to obtain college degrees, tried to express how generally useless we felt our own educations were, but he firmly rejected that argument. He was very proud of us; envious even.
+This might be surprising to people that worked with my father, not because he was an academic - he wasn’t - but he did became a very important and influential person in his industry, and nearly all his colleagues at least had college degrees. In fact, he even taught classrooms full of college professors the Pacific Institute material - something that he frequently found humor in. "The dumb ole' country boy" (as his mother-in-law called him endearingly) was teaching professors and managers who operated nuclear power plants. Behind his self-effacing humor though, he wasn't comfortable with not having a degree. He often said that if he had a degree, he'd be running a nuclear plant, but he literally couldn't even apply to those positions, since they would then find out he didn't have an education. My brother Steven and I, who were some of the first men in our family to obtain college degrees, tried to express how generally useless we felt our own educations were, but he firmly rejected that argument. He was very proud of us; envious even.
 
 He wasn't in the nuclear industry for his entire post-Navy career though. In the mid 1980's, when I was a baby, he left his job at the Shearon Harris nuclear power plant in North Carolina in order to purchase and operate a soda vending machine company called Triangle Fountain.
 
@@ -62,12 +59,9 @@ Always looking for a way to own his own business again, my father took an intere
 
 Teff is a grain from Africa. If you've ever had Ethiopian food, you've eaten teff. It's the most nutritious grain in the world, but also the smallest, which makes harvesting it difficult. Because of that difficulty, it never became popular in America with farmers, nor the general public. My father was going to change all that.
 
-On my father's mother's side of the family is a farm which has been in the family since the 1850s. It was originally a tobacco farm, as nearly all farms in that area of Southern Virginia were. Before she passed away in 2013 from cancer, my mother had wanted to live on that farm with my father, and they began the process of purchasing it from his mother and her siblings. My mother died before it was purchased. Dad struggled for months about whether or not he should go through with buying the farm now; it was always their joint vision to live there. In the end, he did buy it, for two reasons. One, he felt like it would become the Patterson family hub, and he wanted a place for everyone to visit. Two, he wanted to get the farm back into production in order to make an income from the land enough to feel comfortable in retirement.
+On my father's mother's side of the family is a farm which has been in the family since the 1850s. It was originally a tobacco farm, as nearly all farms in that area of Southern Virginia were. Before she passed away in 2013 from cancer, my mother had wanted to live on that farm with my father, and they began the process of purchasing it from his mother and her siblings. My mother died before it was purchased. Dad struggled for months about whether or not he should go through with buying the farm now; it was always their joint vision to live there. In the end, he did buy it, for two reasons. One, he felt like it would become the family hub, and he wanted a place for everyone to visit. Two, he wanted to get the farm back into production in order to make an income from the land enough to feel comfortable in retirement.
 
 After much research, he settled on teff as the crop he would grow on the farm. This wasn't just a fleeting idea either; he grew teff on a test plot in the fall of 2014, and it grew very well. He began working with university professors from several Virginia schools to do test programs using his land. The last photograph I took of my father was him in one of his fields along with one of the university professors. They had spent the past hour talking about teff, and how excited they both were to introduce this grain to everyday Americans.
-
-
-[![IMAG0150](http://samuelrpatterson.com/wp-content/uploads/2015/06/IMAG0150-1024x579.jpg)](http://samuelrpatterson.com/wp-content/uploads/2015/06/IMAG0150.jpg)
 
 These facts are only a handful that I chose to highlight, but there are many more. Some are funny, like the fact that my father hated dimes and refused to carry them, feeling that all change should increase in size as it increases in value. Some aren't funny, like the fact that my father thought he had a brain aneurysm but hid this from us all for more than a year. Many revolve around his future plans, which were never in short supply; he planned on buying a used bus and converting it into travelling ministry, complete with extendable screen to make a mobile drive in theater to spread the word more effectively.
 
