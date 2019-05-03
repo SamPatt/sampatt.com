@@ -2,6 +2,7 @@
 layout: post
 title: Launching the Bitcoin Beta today
 ---
+_This was a post made in December 2015 originally proving that blog posts and PGP keys can both be backdated and aren't useful as evidence that someone is Satoshi, as there were some people making these claims around that time._
 
 Nervous to see how well it is accepted.
 
