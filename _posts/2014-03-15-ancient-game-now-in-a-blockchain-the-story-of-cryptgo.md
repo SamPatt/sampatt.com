@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ancient Game Now in a Blockchain: The Story of CryptGo
+title: Ancient Game Now in a Blockchain, The Story of CryptGo
 ---
 
 Cryptocurrency advocates are often quick to point out that the technological innovation of the blockchain isn't only useful for handling a currency. Much discussion revolves around how blockchains will be used eventually, but so far only a few projects (such as Namecoin) use a blockchain with something other than currency as the primary purpose.

@@ -1,5 +1,8 @@
 name: SamPatt
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+title: SamPatt
+description: Tech, policy, liberty, voice
+
 
 theme: jekyll-theme-slate
