@@ -7,6 +7,9 @@ _TL;DR_
 
 _The [claim](https://twitter.com/danheld/status/1084848064559337473) "Bitcoin was purpose-built to first be a Store of Value" is false. Many of Satoshi's statements shown as evidence for this claim are taken out of context. When those statements are placed in context and considered alongside all his writings, it's undeniable that Bitcoin was not built to first be a store of value, but was built for payments._
 
+## Video Summary
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_j3ZrS5xirw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Table of Contents
 - [The question](#the-question)
