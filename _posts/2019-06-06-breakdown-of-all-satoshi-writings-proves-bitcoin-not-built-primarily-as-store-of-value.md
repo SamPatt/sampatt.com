@@ -11,6 +11,12 @@ _The [claim](https://twitter.com/danheld/status/1084848064559337473) "Bitcoin wa
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_j3ZrS5xirw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Updates
+
+### June 06, 2019
+
+Added a section discussing of Satoshi's genesis block comment in [Evidence for Store of Value](#evidence-for-store-of-value) portion.
+
 ## Table of Contents
 - [The question](#the-question)
   * [Caveats](#caveats)
@@ -294,6 +300,23 @@ However it does mention "early holders of money will see its value increase" so 
 | -------------  | -------------:|
 | Store of Value | 8 |
 | Payments       | 4 |
+
+### Genesis Block Comment
+
+Satoshi included a message in the genesis block of the Bitcoin blockchain:
+
+>The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+
+This served as proof that the block was created at that date (or later).
+
+Store of value proponents claim this is evidence that Satoshi built Bitcoin as a store of value. I agree that it shows Satoshi didn't like central banking / financial institutions, but I find it unconvincing as evidence he built Bitcoin as a store of value for several reasons:
+
+1. It serves a clear purpose of proving the date and needs no other explanation.
+2. Satoshi was limited to only using whatever headlines happened to be written around the period he published. He wasn't able to convey any nuanced opinion about his creation by picking a headline someone else wrote, believing otherwise is reading tea leaves.
+3. Satoshi making a statement about banks and bailouts doesn't prove that store of value is his main goal. Satoshi states that he built Bitcoin to "allow online payments to be sent directly from one party to another without going through a financial institution" so him using an example of a failing financial institution isn't surprising nor does it preclude him believing in the need for Bitcoin for payments.
+4. There are more direct ways to make a clear statement than encoding it in hex and - as far as I can determine - never making reference to it again.
+
+
 
 ### Store of Value Summary
 
